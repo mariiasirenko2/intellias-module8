@@ -3,14 +3,14 @@ package shapes.polygon;
 public class Triangle extends Polygon {
 
     private static final String SHAPE_NAME = "Triangle";
-    private static final int RECTANGLE_VERTEX_COUNT = 3;
+    private static final int VERTEX_COUNT = 3;
 
     private double sideAB;
     private double sideBC;
     private double sideCA;
 
     public Triangle(int startPointX, int startPointY, double sideAB, double sideBC, double sideCA) {
-        super(SHAPE_NAME, RECTANGLE_VERTEX_COUNT, startPointX, startPointY);
+        super(SHAPE_NAME, VERTEX_COUNT, startPointX, startPointY);
         this.sideAB = sideAB;
         this.sideBC = sideBC;
         this.sideCA = sideCA;
