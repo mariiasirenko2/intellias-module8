@@ -1,37 +1,33 @@
 package shapes.polygon;
 
 public class IrregularPolygon extends Polygon {
-
     private static final String SHAPE_NAME = "Irregular Polygon";
+    private int[] xCoordinates;
+    private int[] yCoordinates;
 
-    private int[] xCoords;
-    private int[] yCoords;
-
-    public IrregularPolygon(int vertexQuantity, int startPointX, int startPointY, int[] xCoords, int[] yCoords) {
+    public IrregularPolygon(int vertexQuantity, int startPointX, int startPointY, int[] xCoordinates, int[] yCoordinates) {
         super(SHAPE_NAME, vertexQuantity, startPointX, startPointY);
-        this.xCoords = xCoords;
-        this.yCoords = yCoords;
+        this.xCoordinates = xCoordinates;
+        this.yCoordinates = yCoordinates;
     }
 
     public IrregularPolygon(int vertexQuantity, int[] xCoords, int[] yCoords) {
         this(vertexQuantity, 0, 0, xCoords, yCoords);
     }
 
-    public int[] getxCoords() {
-        return xCoords;
+    public int[] getxCoordinates() {
+        return xCoordinates;
     }
 
-    public void setxCoords(int[] xCoords) {
-        this.xCoords = xCoords;
+    public void setxCoordinates(int[] xCoordinates) {
+        this.xCoordinates = xCoordinates;
     }
 
-    public int[] getyCoords() {
-        return yCoords;
+    public int[] getyCoordinates() {
+        return yCoordinates;
     }
 
-    public void setyCoords(int[] yCoords) {
-        this.yCoords = yCoords;
+    public void setyCoordinates(int[] yCoordinates) {
+        this.yCoordinates = yCoordinates;
     }
-
-
 }
