@@ -3,7 +3,6 @@ package shapes.rounded;
 import shapes.Shape;
 
 public abstract class Round extends Shape {
-
     public static final double PI = 3.14159265359;
     private int centerX;
     private int centerY;
@@ -13,7 +12,6 @@ public abstract class Round extends Shape {
         this.centerX = centerX;
         this.centerY = centerY;
     }
-
 
     public int getCenterX() {
         return centerX;

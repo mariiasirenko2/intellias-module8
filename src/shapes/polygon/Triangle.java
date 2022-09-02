@@ -1,10 +1,8 @@
 package shapes.polygon;
 
 public class Triangle extends Polygon {
-
     private static final String SHAPE_NAME = "Triangle";
     private static final int VERTEX_COUNT = 3;
-
     private double sideAB;
     private double sideBC;
     private double sideCA;

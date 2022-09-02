@@ -4,7 +4,6 @@ public class Circle extends Round {
     private static final String SHAPE_NAME = "Circle";
     private double radius;
 
-
     public Circle(int centerX, int centerY, double radius) {
         super(SHAPE_NAME, centerX, centerY);
         this.radius = radius;

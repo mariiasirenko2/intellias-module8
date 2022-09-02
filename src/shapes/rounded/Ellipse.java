@@ -1,7 +1,6 @@
 package shapes.rounded;
 
 public class Ellipse extends Round {
-
     private static final String SHAPE_NAME = "Ellipse";
     private double radiusX;
     private double radiusY;
@@ -11,7 +10,6 @@ public class Ellipse extends Round {
         this.radiusX = radiusX;
         this.radiusY = radiusY;
     }
-
 
     public Ellipse(double radiusX, double radiusY) {
         this(0, 0, radiusX, radiusY);

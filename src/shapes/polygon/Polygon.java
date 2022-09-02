@@ -3,11 +3,9 @@ package shapes.polygon;
 import shapes.Shape;
 
 public abstract class Polygon extends Shape {
-
     private final int VERTEX_QUANTITY;
     private int startPointX;
     private int startPointY;
-
 
     public Polygon(String shapeName, int vertexQuantity, int startPointX, int startPointY) {
         super(shapeName);

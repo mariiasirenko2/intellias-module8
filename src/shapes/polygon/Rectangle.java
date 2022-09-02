@@ -3,7 +3,6 @@ package shapes.polygon;
 public class Rectangle extends Polygon {
     private static final String SHAPE_NAME = "Rectangle";
     private static final int RECTANGLE_VERTEX_COUNT = 4;
-
     private double height;
     private double width;
 

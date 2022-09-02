@@ -2,7 +2,6 @@ package shapes.polygon;
 
 public class RegularPolygon extends Polygon {
     private static final String SHAPE_NAME = "Regular Polygon";
-
     private double sideLength;
 
     public RegularPolygon(int vertexQuantity, int startPointX, int startPointY, double sideLength) {
