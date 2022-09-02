@@ -1,23 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5336d4-7bb1-4d21-ae6c-d620da4c1639" name="Changes" comment="" />
+    <list default="true" id="7d5336d4-7bb1-4d21-ae6c-d620da4c1639" name="Changes" comment="project added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printer/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printer/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printer/ShapePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printer/ShapePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/polygon/IrregularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/polygon/IrregularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/polygon/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/polygon/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/polygon/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/polygon/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/polygon/RegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/polygon/RegularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/polygon/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/polygon/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/rounded/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/rounded/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/rounded/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/rounded/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/rounded/Round.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/rounded/Round.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2E8VUeEWFSyNphZR26r2thSeEXq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/masha/Documents/module8-hw/src&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="module8-hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,6 +74,29 @@
       <option name="presentableId" value="Default" />
       <updated>1661977217386</updated>
     </task>
+    <task id="LOCAL-00001" summary="project added">
+      <created>1661977267033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661977267033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project added" />
+    <option name="LAST_COMMIT_MESSAGE" value="project added" />
   </component>
 </project>

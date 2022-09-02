@@ -27,8 +27,8 @@ public class Main {
 
         ShapePrinter printer = new ShapePrinter();
 
-        for (Shape s : shapes) {
-            printer.print(s);
+        for (Shape shape : shapes) {
+            printer.print(shape);
         }
 
     }
